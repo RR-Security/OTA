@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Unofficial ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862692903</RomUrl>
+                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=529152257862692903</RomUrl>
         </espresso3g>
     </Stable>
     <Stable>
@@ -15,7 +15,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download Unofficial ResurrectionRemix builds">https://www.androidfilehost.com/?fid=745425885120697918</RomUrl>
+                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=745425885120697918</RomUrl>
         </espressowifi>
     </Stable>
 </SlimOTA>
