@@ -2,20 +2,20 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <espresso3g>
-            <Filename>ResurrectionRemix-M-v5.7.4-20170324-espresso3g</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20170409-espresso3g</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=457095661767148518</RomUrl>
+                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=457095661767153062</RomUrl>
         </espresso3g>
     </Stable>
     <Stable>
         <espressowifi>
-            <Filename>ResurrectionRemix-M-v5.7.4-20170324-espressowifi</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.4-20170409-espressowifi</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=673368273298942293</RomUrl>
+                description="Download latest Unofficial RR-build by smart-t78">https://www.androidfilehost.com/?fid=817550096634761299</RomUrl>
         </espressowifi>
     </Stable>
 </SlimOTA>
